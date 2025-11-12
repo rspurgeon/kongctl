@@ -25,6 +25,7 @@ _testmain.go
 *.prof
 
 kongctl
+scripts/copy-issues
 
 # vscode editor files
 .vscode/
